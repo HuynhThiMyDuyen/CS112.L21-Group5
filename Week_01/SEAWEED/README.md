@@ -39,8 +39,3 @@ Bảng sinh sản của tảo biển như sau:
 ## IV. Complexity (Độ phức tạp):
 - Vòng for chạy từ giá trị 1 đến k
 - Độ phức tạp của thuật toán: `O(n)`
-
-
-```python
-
-```
