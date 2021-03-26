@@ -28,5 +28,5 @@
 ### QUÁ TRÌNH HỌC
 <a name ="quatrinh"></a>
  **1. Week 1:**  
-        * [Tảo biển](https://github.com/HuynhThiMyDuyen/CS112.L21-Group5/tree/main/Week_01/SEAWEED)  
-        * [Trạm thu phí](https://github.com/HuynhThiMyDuyen/CS112.L21-Group5/tree/main/Week_01/BOT)
+       + [Tảo biển](https://github.com/HuynhThiMyDuyen/CS112.L21-Group5/tree/main/Week_01/SEAWEED)  
+       + [Trạm thu phí](https://github.com/HuynhThiMyDuyen/CS112.L21-Group5/tree/main/Week_01/BOT)
