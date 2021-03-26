@@ -27,4 +27,6 @@
 
 ### QUÁ TRÌNH HỌC
 <a name ="quatrinh"></a>
- 1. Week 1: Tảo biển + Trạm thu phí
+ 1. Week 1: 
+ * Tảo biển 
+ * Trạm thu phí
