@@ -27,4 +27,6 @@
 
 ### QUÁ TRÌNH HỌC
 <a name ="quatrinh"></a>
- 1. Week 1: Tảo biển + Trạm thu phí
+ * [x] 1. [Week 1](./Week1/)  
+   * [x] [Tảo biển](/Week_01/SEAWEED)  
+   * [x] [Trạm thu phí](/Week_01/BOT)
