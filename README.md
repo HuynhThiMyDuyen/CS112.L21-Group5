@@ -30,3 +30,6 @@
  * [x] 1. [Week 1](./Week1/)  
    * [x] [Tảo biển](/Week_01/SEAWEED)  
    * [x] [Trạm thu phí](/Week_01/BOT)
+ * [x] 2. [Week 2](./Week2/)  
+   * [x] [H-Index](/Week_02/H_Index)  
+   * [x] [Khoá Số](/Week_02/Khoa_so)
