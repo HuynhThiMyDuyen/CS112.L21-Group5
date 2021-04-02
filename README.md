@@ -1,4 +1,4 @@
-# CS112.L21-Group05
+# CS112.L21-GROUP05
 ## MỤC LỤC
 * [ Giới thiệu môn học](#gioithieu)
 * [ Giảng viên hướng dẫn](#giangvien)
