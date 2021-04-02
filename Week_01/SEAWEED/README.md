@@ -7,8 +7,8 @@
 - **Bài toán/ Kỹ thuật:** Duyệt mảng
 - **Đặc điểm nhận dạng:**  
 Trường hợp **n = 1**, ta có:  
-Bảng sinh sản của tảo biển như sau:  
-
+Bảng sinh sản của tảo biển như sau:
+  
 |NGÀY / MỨC|  1  |  2  |  3  |  4  |  5  |  6  |  7  | SỐ CÁ THỂ |
 |:--------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---------:|
 |     0    |  1  |  -  |  -  |  -  |  -  |  -  |  -  |     1     |
