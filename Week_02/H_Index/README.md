@@ -1,5 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rQsGB7d3bzF3oa_Rmeu0Wfv2UoOBURPS#scrollTo=gNWPio0_05wo)
 # **H-INDEX**
-
 ## **I. Abstraction (Trừu tượng hóa):**
 - Tìm số `k lớn nhất` sao cho mảng `n` có `k` số có giá trị `lớn hơn hoặc bằng k`.
 
