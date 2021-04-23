@@ -1,5 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18adNq7cg6xO8WoBXetw-a2HT19gLpUPz#scrollTo=r719KpPrA6Hd)
 # KHOA SO
-
 ## I. Abstraction
   * Find the largest string of numbers divisible by 3
 
@@ -25,3 +25,44 @@
  
 ## IV. Complexity
    * O(n)
+   * 
+## V. Code
+
+```python
+def remove_smallest(x,r,arr):
+        idx = r.index(x)
+        arr.pop(idx)
+        r.pop(idx)
+
+def largestMultipleOfThree(arr):
+    r = [a % 3 for a in arr]
+    s = sum(r) % 3
+
+    if s != 0:
+        try:
+            remove_smallest(s, r, arr)
+        except:
+            remove_smallest(3-s, r, arr)
+            remove_smallest(3-s, r, arr)
+
+    if len(arr) == 0:
+        print("")
+    else:
+        arr.sort(reverse = True)
+        print(*arr,sep="")
+        
+# Driver Code
+
+string = list(input().strip())
+
+arr = []
+for i in string:
+    arr.append(int(i))
+arr.sort()
+largestMultipleOfThree(arr)
+```
+
+
+    105
+    510
+    
