@@ -27,3 +27,27 @@ Ví dụ cho mảng arr = [2, 4, 5, 6, 7, 3, 9].
 - Nếu `n == 0:` thì `print(0)`.
 ## **IV. Complexity (Độ phức tạp):**
 - Độ phức tạp của thuật toán: `O(n).`
+## **V. Code**
+```python
+n = int(input())
+arr = list(map(int, input().split()))
+
+arr.sort(reverse = True)
+
+while n > 0:
+    if arr[n - 1] >= n:
+        print(n)
+        break
+    else:
+        n -= 1
+
+if n == 0:
+    print(n)
+```
+
+
+    5
+    8 5 3 4 10
+    4
+    
+    
