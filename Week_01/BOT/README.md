@@ -1,4 +1,4 @@
-# VR06_BOT
+# VR06_BOT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1J0Hrbc2nwcUozLSFr8_irpr3pSSNREbe/view?usp=sharing)
 ## I. Abstraction
 - Tìm giá trị p và q sao cho mảng con arr[ p:q ] lớn nhất
 
