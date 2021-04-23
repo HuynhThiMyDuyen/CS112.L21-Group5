@@ -1,4 +1,4 @@
-# VR06_BOT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1J0Hrbc2nwcUozLSFr8_irpr3pSSNREbe/view?usp=sharing)
+# VR06_BOT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J0Hrbc2nwcUozLSFr8_irpr3pSSNREbe#scrollTo=tIrYasJxlV4e)
 ## I. Abstraction
 - Tìm giá trị p và q sao cho mảng con arr[ p:q ] lớn nhất
 
@@ -62,4 +62,4 @@ maxSubArraySum(arr)
     2 -4 5 -8 4 -1 -1 1 1 1 -2 2 4 -6 9 -4
     5 15 12
     
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1J0Hrbc2nwcUozLSFr8_irpr3pSSNREbe/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J0Hrbc2nwcUozLSFr8_irpr3pSSNREbe#scrollTo=tIrYasJxlV4e)
