@@ -25,7 +25,7 @@
  
 ## IV. Complexity
    * O(n)
-   * 
+
 ## V. Code
 
 ```python
