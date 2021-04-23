@@ -1,5 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rQsGB7d3bzF3oa_Rmeu0Wfv2UoOBURPS#scrollTo=gNWPio0_05wo)
 # **H-INDEX**
-
 ## **I. Abstraction (Trừu tượng hóa):**
 - Tìm số `k lớn nhất` sao cho mảng `n` có `k` số có giá trị `lớn hơn hoặc bằng k`.
 
@@ -27,3 +27,27 @@ Ví dụ cho mảng arr = [2, 4, 5, 6, 7, 3, 9].
 - Nếu `n == 0:` thì `print(0)`.
 ## **IV. Complexity (Độ phức tạp):**
 - Độ phức tạp của thuật toán: `O(n).`
+## **V. Code**
+```python
+n = int(input())
+arr = list(map(int, input().split()))
+
+arr.sort(reverse = True)
+
+while n > 0:
+    if arr[n - 1] >= n:
+        print(n)
+        break
+    else:
+        n -= 1
+
+if n == 0:
+    print(n)
+```
+
+
+    5
+    8 5 3 4 10
+    4
+    
+    
