@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e2RMT6HSw-LIf51A1CATgnstF-0YhA9B#scrollTo=bxLD5dbNqlGW)
 # SEAWEED - TẢO BIỂN
 
 ## I. Abstraction (Trừu tượng hóa):
