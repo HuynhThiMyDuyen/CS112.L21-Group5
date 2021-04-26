@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rQsGB7d3bzF3oa_Rmeu0Wfv2UoOBURPS#scrollTo=gNWPio0_05wo)
-# **H-INDEX**
+# **NEW NUMBER**
 ## **I. Abstraction (Trừu tượng hóa):**
-- Tìm số `k lớn nhất` sao cho mảng `n` có `k` số có giá trị `lớn hơn hoặc bằng k`.
+- Tìm số nguyên `m lớn nhất chia `  `n` có `k` số có giá trị `lớn hơn hoặc bằng k`.
 
 ## **II. Pattern Recognition (Nhận dạng mẫu):**
 - **Bài toán/ Kỹ thuật:** Duyệt mảng
