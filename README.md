@@ -33,3 +33,6 @@
  * [x] 2. [Week 2](./Week2/)  
    * [x] [H-Index](/Week_02/H_Index)  
    * [x] [Khoá Số](/Week_02/Khoa_so)
+ * [x] 3. [Week 3](./Week3/)  
+   * [x] [Renewed](/Week_03/Renewed)  
+   * [x] [NewNum](/Week_03/NewNum)
