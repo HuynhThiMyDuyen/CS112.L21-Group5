@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/github/HuynhThiMyDuyen/CS112.L21-Group5/tree/main/Week_04/FRACTION" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/HuynhThiMyDuyen/CS112.L21-Group5/blob/main/Week_04/FRACTION/FRACTION.ipynb\" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # VU20_FRACTION
 
