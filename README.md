@@ -36,3 +36,6 @@
  * [x] 3. [Week 3](./Week3/)  
    * [x] [Renewed](/Week_03/Renewed)  
    * [x] [NewNum](/Week_03/NewNum)
+ * [x] 4. [Week 4](./Week4/)  
+   * [x] [Fraction](/Week_04/FRACTION)
+   * [ ] [Startup](/Week_04/Startup)
