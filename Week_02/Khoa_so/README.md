@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18adNq7cg6xO8WoBXetw-a2HT19gLpUPz#scrollTo=r719KpPrA6Hd)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KmKmn1sV1-unQcBfyk6bwn9eWdT85n0r)
 # KHOA SO
 ## I. Abstraction
   * Find the largest string of numbers divisible by 3
