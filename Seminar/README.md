@@ -79,20 +79,19 @@
   + [Các bài toán cơ bản (có source code)](https://www.geeksforgeeks.org/geometric-algorithms/)
 
 # **THỐNG KÊ BUỔI HỌC:**
+Điểm mỗi nhóm = điểm kahoot (đã quy chuẩn) + điểm phát biểu (đã quy chuẩn)
+* Quy chuẩn điểm Kahoot:  
+  `>= 6000` <=> 5đ  
+  `>= 5000` <=> 4.5  
+  `>= 4000` <=> 4đ  
+  `>= 3000` <=> 3.5đ  
+  `>= 2000` <=> 3đ  
 
-Kahoot:
-  > 6000: 5d
-  > 5000: 4.5d
-  > 4000: 4d
-  > 3000: 3.5d
-  > 2000: 3d
-
-phat bieu
-  >= 7: 5d
-  >= 5: 4.5d
-  >= 3: 4d
-  >= 1: 3.5d
-  = 0: 2d (khuyen khich)
+* Quy chuẩn điểm phát biểu dựa trên số lần phát biểu:  
+  `>= 7` <=> 5đ  
+  `>= 5` <=> 4.5đ  
+  `>= 3` <=> 4đ  
+  `>= 1` <=> 3.5đ  
 
 |STT  |  Nhóm         |  Điểm số Kahoot   |  Số lần phát biểu | Điểm |
 |:---:| :-----------: | :--:              |  :--:             | :---:|
